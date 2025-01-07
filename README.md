@@ -1,4 +1,4 @@
-# 🤖 Hello, I'm [Your Name]
+# 🤖 Hello, I'm Aron
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFB3&width=435&lines=LLM+Developer;AI+Researcher;Prompt+Engineer;NLP+Enthusiast" alt="Typing SVG" />
 </div>
@@ -14,10 +14,10 @@ I specialize in Large Language Models and Natural Language Processing, focusing 
 - 📊 LLM evaluation and benchmarking
 
 ## 🚀 Current Projects
-- 🤖 Building [Your LLM Project Name] - A specialized language model for [specific domain]
+- 🤖 Building a matchmaking app - Wait for it
 - 📚 Developing RAG pipelines for enterprise knowledge bases
 - 🔧 Creating tools for LLM evaluation and prompt optimization
-- 🧪 Experimenting with [specific LLM research area]
+
 
 ## 💻 Tech Stack
 <div align="center">
@@ -51,27 +51,9 @@ I specialize in Large Language Models and Natural Language Processing, focusing 
   <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark" alt="GitHub Stats" />
   
   <!-- Replace with your actual research paper or project -->
-  📑 Latest Research: "[Your Latest Research Paper/Project Title]"
+  📑 Latest Research: "Embracing Strict Mode in OpenAI: Revolutionizing Structured Output Generation"
 </div>
 
-## 🎯 LLM Projects Showcase
-<div align="center">
-  <a href="https://github.com/YourUsername/Project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project1&theme=dark" />
-  </a>
-  <a href="https://github.com/YourUsername/Project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Project2&theme=dark" />
-  </a>
-</div>
-
-## 📈 LLM Performance Metrics
-```python
-Model Performance Highlights:
-• ROUGE-L Score: 92.3
-• BLEU Score: 89.7
-• Response Latency: 120ms
-• Memory Efficiency: 85%
-```
 
 ## 🔗 Connect & Collaborate
 <div align="center">
@@ -83,12 +65,7 @@ Model Performance Highlights:
 
 </div>
 
-## 📚 Latest Publications & Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- 🔬 [Title of Your Latest Research Paper/Blog Post]
-- 🤖 [Another Recent Publication/Post]
-- 📊 [Technical Blog Post About LLMs]
-<!-- BLOG-POST-LIST:END -->
+
 
 ---
 <div align="center">
