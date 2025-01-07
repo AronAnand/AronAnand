@@ -42,13 +42,7 @@ I specialize in Large Language Models and Natural Language Processing, focusing 
 ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
 </div>
 
-## 📊 Research & Development Metrics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AronAnand&show_icons=true&theme=dark" alt="GitHub Stats" />
-  
-  <!-- Replace with your actual research paper or project -->
-  📑 Latest Research: "Embracing Strict Mode in OpenAI: Revolutionizing Structured Output Generation"
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AronAnand)](https://github.com/AronAnand/readme-components)
 
 
 ## 🔗 Connect & Collaborate
