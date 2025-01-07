@@ -37,7 +37,8 @@ I specialize in Large Language Models and Natural Language Processing, focusing 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-
+###GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AronAnand&show_icons=true&theme=radical)
 ### Monitoring & Analysis
 ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
 </div>
