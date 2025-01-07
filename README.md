@@ -55,5 +55,5 @@ I specialize in Large Language Models and Natural Language Processing, focusing 
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AronAnand&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
