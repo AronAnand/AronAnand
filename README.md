@@ -43,7 +43,9 @@ I specialize in Large Language Models and Natural Language Processing, focusing 
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AronAnand)](https://github.com/AronAnand/readme-components)
-
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Aron-droid?theme=dark&font=Fira+Code&ext=activity" alt="LeetCode Stats" />
+</div>
 ![Snake animation](https://github.com/AronAnand/AronAnand/blob/output/github-contribution-grid-snake.svg)
 
 ## 🔗 Connect & Collaborate
