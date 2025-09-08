@@ -43,10 +43,15 @@ I specialize in Large Language Models and Natural Language Processing, focusing 
 </div>
 
 <!-- Replace with coding activity or streak stats -->
+### Github stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AronAnand&theme=dark" alt="GitHub Streak" />
-<div align="center">
+
+### Leetcode stats
+<div align="left">
   <img src="https://leetcard.jacoblin.cool/Aron-droid?theme=dark&font=Fira+Code&ext=activity" alt="LeetCode Stats" />
 </div>
+
+### Contributions
 ![Snake animation](https://github.com/AronAnand/AronAnand/blob/output/github-contribution-grid-snake.svg)
 
 ## 🔗 Connect & Collaborate
