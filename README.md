@@ -5,6 +5,20 @@
 
 > *"AI is not about building a mind; it's about understanding our own." – Douglas Hofstadter*
 
+## 🏆 Recent Achievement
+<div align="center">
+  
+**🥇 FINALIST - Google Cloud Agentic AI Day 2025**  
+*30-Hour Hackathon | Team: Seventh Harmonic*
+
+![Google Cloud AI](https://img.shields.io/badge/Google%20Cloud%20AI-Finalist-4285F4?style=for-the-badge&logo=google-cloud)
+![Hackathon](https://img.shields.io/badge/30%20Hour-Hackathon-FF6B35?style=for-the-badge&logo=timer)
+
+<!-- Add your certificate image here when you have it -->
+<!-- <img src="path-to-your-certificate.png" alt="Google Cloud Agentic AI Day Certificate" width="500"/> -->
+
+</div>
+
 ## 🧠 About Me
 I specialize in Large Language Models and Natural Language Processing, focusing on:
 - 🔬 Developing and fine-tuning custom LLMs
@@ -12,12 +26,12 @@ I specialize in Large Language Models and Natural Language Processing, focusing 
 - 🔮 Context window manipulation and RAG systems
 - 🛠️ Building AI-powered applications
 - 📊 LLM evaluation and benchmarking
+- 🏆 **Proven track record in AI hackathons and competitions**
 
 ## 🚀 Current Projects
 - 🤖 Building a matchmaking app - Wait for it
 - 📚 Developing RAG pipelines for enterprise knowledge bases
 - 🔧 Creating tools for LLM evaluation and prompt optimization
-
 
 ## 💻 Tech Stack
 <div align="center">
@@ -40,9 +54,11 @@ I specialize in Large Language Models and Natural Language Processing, focusing 
 
 ### Monitoring & Analysis
 ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
+
 </div>
 
-<!-- Replace with coding activity or streak stats -->
+## 📊 GitHub & Coding Stats
+
 ### Github stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AronAnand&theme=dark" alt="GitHub Streak" />
 
@@ -52,7 +68,6 @@ I specialize in Large Language Models and Natural Language Processing, focusing 
 <div align="left">
   <img src="https://leetcard.jacoblin.cool/Aron-droid?theme=dark&font=Fira+Code&ext=activity" alt="LeetCode Stats" />
 </div>
-
 
 ## 🔗 Connect & Collaborate
 <div align="center">
