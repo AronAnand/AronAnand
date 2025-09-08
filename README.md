@@ -42,8 +42,8 @@ I specialize in Large Language Models and Natural Language Processing, focusing 
 ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
 </div>
 
-<!-- Try this instead -->
-<img src="https://github-readme-stats.vercel.app/api?username=AronAnand&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+<!-- Replace with coding activity or streak stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AronAnand&theme=dark" alt="GitHub Streak" />
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Aron-droid?theme=dark&font=Fira+Code&ext=activity" alt="LeetCode Stats" />
 </div>
