@@ -52,7 +52,7 @@ I specialize in Large Language Models and Natural Language Processing, focusing 
 </div>
 
 ### Contributions
-![Snake animation](https://github.com/AronAnand/AronAnand/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ## 🔗 Connect & Collaborate
 <div align="center">
