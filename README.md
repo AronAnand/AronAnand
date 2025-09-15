@@ -60,8 +60,8 @@ I specialize in Large Language Models and Natural Language Processing, focusing 
 ## 📊 GitHub & Coding Stats
 
 ### Github stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AronAnand&theme=dark" alt="GitHub Streak" />
-
+<img src="https://streak-stats.demolab.com/?user=AronAnand&theme=dark" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=AronAnand&show_icons=true&theme=dark" alt="GitHub Stats" />
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ### Leetcode stats
