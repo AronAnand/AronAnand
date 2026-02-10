@@ -2,32 +2,42 @@
 
 # ⚡ Aron Anand
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=LLM+Architect+%26+AI+Engineer;Building+Intelligence%2C+One+Token+at+a+Time;Hackathon+Finalist+%7C+NLP+Specialist" alt="Dynamic Header" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=LLM+Architect+%26+AI+Engineer;Building+Intelligence%2C+One+Token+at+a+Time;Hackathon+Finalist+%7C+NLP+Specialist" alt="Dynamic Header" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
+<br>
+
 <div align="center">
 
-> *"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim"*  
+> *"The question of whether a computer can think is no more interesting than*  
+> *the question of whether a submarine can swim"*  
 > **– Edsger W. Dijkstra**
 
 </div>
 
----
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏅 Latest Victory
 
 <div align="center">
 
 ### 🥇 Google Cloud Agentic AI Day 2025
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 
 **FINALIST** | 30-Hour Hackathon  
 **Team:** Seventh Harmonic
 
-<img src="https://github.com/AronAnand/AronAnand/blob/main/Hack2skill-Certificate.png" alt="Achievement Certificate" width="500"/>
+<br>
+
+<img src="https://github.com/AronAnand/AronAnand/blob/main/Hack2skill-Certificate.png" alt="Achievement Certificate" width="600"/>
+
+<br>
 
 ![Status](https://img.shields.io/badge/Status-Finalist-gold?style=flat-square&logo=google-cloud&labelColor=1a1a1a)
 ![Duration](https://img.shields.io/badge/Duration-30hrs-red?style=flat-square&logo=clockify&labelColor=1a1a1a)
@@ -46,14 +56,16 @@
 ### 🔬 Research & Development
 ```python
 research_focus = {
-    "transformer_architectures": "SOTA",
-    "attention_mechanisms": "Custom",
+    "transformers": "SOTA",
+    "attention": "Custom",
     "tokenization": "BPE, WordPiece",
-    "training": "LoRA, QLoRA, Full FT",
-    "optimization": "Flash Attention 2"
+    "training": "LoRA, QLoRA",
+    "optimization": "Flash Attn 2"
 }
 ```
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+</div>
 
 </td>
 <td width="50%">
@@ -61,14 +73,16 @@ research_focus = {
 ### 🛠️ Engineering & Production
 ```python
 production_skills = {
-    "rag_systems": ["Semantic", "Hybrid"],
-    "vector_dbs": ["Pinecone", "Chroma"],
-    "serving": ["vLLM", "TGI", "Ollama"],
-    "optimization": ["Quantization", "Pruning"],
-    "deployment": ["Docker", "K8s"]
+    "rag": ["Semantic", "Hybrid"],
+    "vectors": ["Pinecone", "Chroma"],
+    "serving": ["vLLM", "TGI"],
+    "optimize": ["Quantization"],
+    "deploy": ["Docker", "K8s"]
 }
 ```
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+</div>
 
 </td>
 </tr>
@@ -101,7 +115,9 @@ Features:
 Status: 🟢 In Development (70% Complete)
 ```
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+</div>
 
 </details>
 
@@ -123,7 +139,9 @@ Scale:
 Models: Claude, GPT-4, Mixtral, Llama 3
 ```
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+</div>
 
 </details>
 
@@ -145,7 +163,9 @@ Features:
 Integration: W&B, MLflow, Grafana
 ```
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+</div>
 
 </details>
 
@@ -219,7 +239,7 @@ Integration: W&B, MLflow, Grafana
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Aron-droid?theme=dark&font=JetBrains+Mono&ext=contest&animation=true" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/Aron-droid?theme=dark&font=JetBrains+Mono&ext=contest" alt="LeetCode Stats" />
 
 </div>
 
@@ -267,11 +287,15 @@ const interests = {
 };
 ```
 
-<img src="https://komarev.com/ghpvc/?username=AronAnand&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-
 <br>
 
+<img src="https://komarev.com/ghpvc/?username=AronAnand&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+
+<br><br>
+
 **⭐ If you find my work interesting, star my repositories! ⭐**
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="200">
 
@@ -288,6 +312,8 @@ while coffee_available():
     learn()
     build()
 ```
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="150">
 
