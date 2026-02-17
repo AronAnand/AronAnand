@@ -96,13 +96,12 @@
 
 **Models:** Claude · GPT-4 · Mixtral · Llama 3
 
-**Architecture:**
 - Multi-index retrieval with hybrid search
 - Reranking with cross-encoders
 - Citation tracking & provenance
 - Query decomposition & routing
 
-**Scale:** 1M+ documents · <200ms P95 latency · 94% benchmark accuracy
+**Scale:** 1M+ documents · less than 200ms P95 latency · 94% benchmark accuracy
 
 <br>
 
@@ -112,7 +111,6 @@
 
 **Metrics:** Perplexity · BLEU · ROUGE · BERTScore · Human Eval
 
-**Features:**
 - A/B testing framework with prompt versioning
 - Cost tracking per request
 - Real-time performance dashboards
@@ -179,19 +177,23 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AronAnand&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+### 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=AronAnand&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://git.io/streak-stats)
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AronAnand&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
+### 📊 GitHub Activity
+[![Aron's GitHub stats](https://github-readme-stats.vercel.app/api?username=AronAnand&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true)](https://github.com/AronAnand)
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AronAnand&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=AronAnand&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/AronAnand)
 
 <br>
 
-<img src="https://leetcard.jacoblin.cool/Aron-droid?theme=dark&font=JetBrains+Mono&ext=contest" alt="LeetCode Stats" />
+### 💻 LeetCode Progress
+[![LeetCode](https://leetcard.jacoblin.cool/Aron-droid?theme=dark&font=JetBrains%20Mono&ext=contest)](https://leetcode.com/Aron-droid)
 
 <br>
 
