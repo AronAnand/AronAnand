@@ -6,6 +6,7 @@
 
 <br>
 
+[![Open to work](https://img.shields.io/badge/Open_to_work-Available_immediately-00D9FF?style=flat-square&labelColor=0D1117)](mailto:aronc.anand3@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aroncanand-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/aroncanand/)
 [![Email](https://img.shields.io/badge/Email-aronc.anand3-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:aronc.anand3@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Aron--droid-FFA116?style=flat-square&logo=leetcode&logoColor=white&labelColor=0D1117)](https://leetcode.com/u/Aron-droid/)
@@ -15,7 +16,7 @@
 
 ---
 
-```console
+```
 $ aron --status
 
 ⟨ agent ⟩ loading profile ...
@@ -25,7 +26,8 @@ $ aron --status
   ├─ domain ......... RAG · multi-agent orchestration · AI microservices
   ├─ base ........... Kochi, Kerala, India
   ├─ education ...... B.Tech CSE, CUSAT  ·  8.3/10
-  └─ state .......... OPEN → LLM research · AI products · collaborations
+  └─ status ......... AVAILABLE IMMEDIATELY → no notice period
+                      open to LLM research · AI products · collaborations
 
 ⟨ agent ⟩ ready. 
 ```
@@ -78,7 +80,7 @@ Most of my work collapses into one shape: **retrieve the truth, orchestrate the 
 
 ## ▸ Production scorecard
 
-Numbers from systems live in front of real users at **PriceSenz** *(Sep 2023 → present · promoted to Software Engineer II, May 2026)*.
+Numbers from systems live in front of real users at **PriceSenz** *(Sep 2023 → Jul 2026 · promoted to Software Engineer II, May 2026)*.
 
 | What I changed | Approach | Result |
 |:---|:---|:---|
