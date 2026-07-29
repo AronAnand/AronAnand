@@ -1,234 +1,244 @@
 <div align="center">
 
-# ⚡ Aron Anand
+# Aron C Anand
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=LLM+Architect+%26+AI+Engineer;Building+Intelligence%2C+One+Token+at+a+Time;Hackathon+Finalist+%7C+NLP+Specialist" alt="Dynamic Header" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=00D9FF&center=true&vCenter=true&width=760&lines=AI%2FML+Platform+Engineer;LLMs+%C2%B7+RAG+%C2%B7+Agentic+AI+Systems;I+ship+production+pipelines%2C+not+demos" alt="AI/ML Platform Engineer — LLMs, RAG, Agentic AI Systems" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aroncanand-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/aroncanand/)
+[![Email](https://img.shields.io/badge/Email-aronc.anand3-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:aronc.anand3@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Aron--droid-FFA116?style=flat-square&logo=leetcode&logoColor=white&labelColor=0D1117)](https://leetcode.com/u/Aron-droid/)
+[![Profile Views](https://komarev.com/ghpvc/?username=AronAnand&color=00D9FF&style=flat-square&label=visitors&labelColor=0D1117)](https://github.com/AronAnand)
 
 </div>
 
-<br>
+---
 
-<div align="center">
+```console
+$ aron --status
 
-> *"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim"*
->
-> **— Edsger W. Dijkstra**
+⟨ agent ⟩ loading profile ...
 
-</div>
+  ├─ role ........... Software Engineer II  ·  AI/ML Platform
+  ├─ experience ..... ~3 yrs shipping production LLM systems
+  ├─ domain ......... RAG · multi-agent orchestration · AI microservices
+  ├─ base ........... Kochi, Kerala, India
+  ├─ education ...... B.Tech CSE, CUSAT  ·  8.3/10
+  └─ state .......... OPEN → LLM research · AI products · collaborations
 
-<br>
+⟨ agent ⟩ ready. 
+```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 🏅 Latest Victory
+## ▸ The system I keep building
 
-<div align="center">
+Most of my work collapses into one shape: **retrieve the truth, orchestrate the reasoning, validate the output.** Here's that shape, drawn with the tools I actually use in production.
 
-### 🥇 Google Cloud Agentic AI Day 2025
+```
+                       user query
+                            │
+                            ▼
+                   ┌────────────────┐
+                   │    FastAPI     │   async · Pydantic-typed contracts
+                   └───────┬────────┘
+                           ▼
+                ┌──────────────────────┐
+                │  Agent Orchestration │   CrewAI · LangChain
+                └──────────┬───────────┘
+            ┌──────────────┼──────────────┐
+            ▼              ▼              ▼
+      ┌──────────┐   ┌──────────┐   ┌──────────┐
+      │ RESEARCH │   │  EXTRACT │   │ VALIDATE │
+      │  Serper  │──▶│Firecrawl │──▶│ Pydantic │
+      │  Tavily  │   │ scraping │   │  cross-  │
+      │          │   │          │   │  check   │
+      └──────────┘   └──────────┘   └────┬─────┘
+                                         │  clean, reconciled facts
+                                         ▼
+                     ┌───────────────────────────────┐
+                     │       Retrieval Layer         │
+                     │  semantic + hybrid search      │
+                     │  Qdrant · Pinecone             │
+                     │  Neo4j · PostgreSQL · MongoDB  │
+                     └───────────────┬───────────────┘
+                                     ▼
+                       ┌──────────────────────────┐
+                       │      LLM Synthesis       │   OpenAI · Azure OpenAI · Gemini
+                       │   grounded · cited · typed│
+                       └──────────────┬───────────┘
+                                      ▼
+                              Docker  ·  Azure  ·  CI/CD
+```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
+> The interesting part is never the model call. It's the schema design, the service boundaries, and the validation layer that stops a confident hallucination from reaching a user.
 
-**FINALIST** | 30-Hour Hackathon | **Team:** Seventh Harmonic
+---
 
-<br>
+## ▸ Production scorecard
 
-<img src="https://github.com/AronAnand/AronAnand/blob/main/Hack2skill-Certificate.png" alt="Achievement Certificate" width="600"/>
+Numbers from systems live in front of real users at **PriceSenz** *(Sep 2023 → present · promoted to Software Engineer II, May 2026)*.
 
-<br>
+| What I changed | Approach | Result |
+|:---|:---|:---|
+| Customer-facing conversational AI | Multi-agent workflows over OpenAI + Gemini for document intelligence | **93%** satisfaction rate |
+| Infrastructure spend | FastAPI + Docker microservices, redesigned schema & API architecture | **−27%** cost |
+| Response quality | Advanced prompt engineering across OpenAI & Meta AI | **+41%** accuracy |
+| Model efficiency | Knowledge-distillation pipeline in Python | **+35%** performance |
+| Assessment delivery | Adaptive engine generating questions from live user responses | real-time evaluation |
 
-![Status](https://img.shields.io/badge/Status-Finalist-gold?style=flat-square&logo=google-cloud&labelColor=1a1a1a)
-![Duration](https://img.shields.io/badge/Duration-30hrs-red?style=flat-square&labelColor=1a1a1a)
-![AI](https://img.shields.io/badge/Agentic-AI-blue?style=flat-square&logo=google-cloud&labelColor=1a1a1a)
+I own end-to-end design decisions on these: table structure, service boundaries, API contracts.
 
-</div>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎯 What I Do
+## ▸ Selected systems
 
 <table>
-<tr>
-<td width="50%">
+<tr><td width="50%" valign="top">
 
-### 🔬 Research & Development
+### Multi-Agent School Data Aggregation
+`CrewAI` `Serper` `Tavily` `Firecrawl` `Python`
 
-- Transformer architectures (SOTA)
-- Custom attention mechanisms
-- Tokenization — BPE, WordPiece
-- Fine-tuning — LoRA, QLoRA, Full FT
-- Flash Attention 2 optimization
+Three specialized agents that compile verified school profiles from the open web.
 
-</td>
-<td width="50%">
+- **Research agent** discovers sources per target school
+- **Scraping agent** extracts contacts, admissions, facilities, reviews
+- **Validation agent** reconciles across sources and flags contradictions
 
-### 🛠️ Engineering & Production
+*Built for SchoolPath.*
 
-- RAG systems — Semantic & Hybrid
-- Vector databases — Pinecone, Chroma
-- Model serving — vLLM, TGI, Ollama
-- Optimization — Quantization, Pruning
-- Deployment — Docker, Kubernetes
+</td><td width="50%" valign="top">
 
-</td>
-</tr>
+### RFP Analysis & Automation
+`Python` `NLP` `Embeddings` `Semantic Retrieval`
+
+An end-to-end pipeline that turns public procurement noise into ranked opportunities.
+
+- Scrapes **170+ government portals**
+- Embeds and ranks RFPs by company fit
+- Auto-generates pre-filled submission PDFs via markdown extraction + LLM drafting
+
+*Built for PriceSenz.*
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+### Job ↔ Recruiter Matchmaking Platform
+`FastAPI` `Neo4j` `Vector DBs` `SQLAlchemy` `Pydantic`
+
+**Sole AI/ML engineer.** Resume and JD extraction with typed validation, feeding a hybrid graph + vector store for semantic matching.
+
+- Modular services: parsing → matching → assessment → ranking
+- Automated assessment generation for shortlisted candidates via Gemini
+
+*Built for Talentz AI.*
+
+</td><td width="50%" valign="top">
+
+### RAG Chatbots — Schools & Civic Services
+`FastAPI` `Azure OpenAI` `RAG` `Google Maps API`
+
+Two grounded assistants in production:
+
+- **School bot** — admissions, policy, curriculum queries answered from source documents, cutting hallucinated answers
+- **Civic bot** — verified citizens report issues (potholes) and track resolution; natural-language lookup of nearby services
+
+*Built for PriceSenz.*
+
+</td></tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 🚀 Active Projects
-
-### 🎲 AI-Powered Matchmaking Platform
-
-**Stack:** LangChain · FastAPI · Python · Pinecone · React · TypeScript · GPT-4 · Claude
-
-- Semantic matching using LLM embeddings
-- Real-time preference learning engine
-- Multi-modal embeddings across text, images & behavior
-- Privacy-first architecture with local processing
-
-**Status:** 🟢 In Development — 70% Complete
-
-<br>
-
-### 📚 Enterprise RAG Framework
-
-**Models:** Claude · GPT-4 · Mixtral · Llama 3
-
-- Multi-index retrieval with hybrid search
-- Reranking with cross-encoders
-- Citation tracking & provenance
-- Query decomposition & routing
-
-**Scale:** 1M+ documents · less than 200ms P95 latency · 94% benchmark accuracy
-
-<br>
-
-### ⚙️ LLM Evaluation Suite
-
-**Integration:** Weights & Biases · MLflow · Grafana
-
-**Metrics:** Perplexity · BLEU · ROUGE · BERTScore · Human Eval
-
-- A/B testing framework with prompt versioning
-- Cost tracking per request
-- Real-time performance dashboards
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🧰 Arsenal
+## ▸ Finalist — Gen AI Exchange Hackathon
 
 <div align="center">
 
-### 🐍 Languages & Core
+**World's Largest Agentic AI Hackathon · Bengaluru**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 🤖 LLM Ecosystem
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge&logoColor=white)
-
-### 🧠 ML & Deep Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 🗄️ Databases & Vector Stores
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
-![Chroma](https://img.shields.io/badge/Chroma-6B46C1?style=for-the-badge&logoColor=white)
-
-### ☁️ Infrastructure & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 📊 Monitoring & MLOps
-
-![WandB](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+<img src="https://github.com/AronAnand/AronAnand/blob/main/Hack2skill-Certificate.png" alt="Gen AI Exchange Hackathon Finalist Certificate" width="520"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+Automated **multigrade classroom scheduling** for rural schools — one teacher, several grades, one timetable that has to work.
 
-## 📈 Stats
+`Gemini API` for constraint reasoning · `FastAPI` backend · live web-search retrieval for dynamic data · conflict-free generation over a REST architecture.
+
+---
+
+## ▸ Stack
+
+Everything here is something I've shipped with — not something I've read about.
 
 <div align="center">
 
-### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=AronAnand&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+**Language & Frameworks**
 
-<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0D1117)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white&labelColor=0D1117)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white&labelColor=0D1117)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white&labelColor=0D1117)
 
-### 📊 GitHub Activity
-[![Aron's GitHub stats](https://github-readme-stats.vercel.app/api?username=AronAnand&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true)](https://github.com/AronAnand)
+**LLM & Agentic**
 
-<br>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white&labelColor=0D1117)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=0D1117)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white&labelColor=0D1117)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=0D1117)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A5F?style=flat-square&logoColor=white&labelColor=0D1117)
 
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=AronAnand&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/AronAnand)
+**Retrieval & Data**
 
-<br>
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white&labelColor=0D1117)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white&labelColor=0D1117)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white&labelColor=0D1117)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white&labelColor=0D1117)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white&labelColor=0D1117)
 
-### 💻 LeetCode Progress
-[![LeetCode](https://leetcard.jacoblin.cool/Aron-droid?theme=dark&font=JetBrains%20Mono&ext=contest)](https://leetcode.com/Aron-droid)
+**Agent Tooling & Web Data**
 
-<br>
+![Serper](https://img.shields.io/badge/Serper-1A73E8?style=flat-square&logoColor=white&labelColor=0D1117)
+![Tavily](https://img.shields.io/badge/Tavily-6D28D9?style=flat-square&logoColor=white&labelColor=0D1117)
+![Firecrawl](https://img.shields.io/badge/Firecrawl-FF6A00?style=flat-square&logoColor=white&labelColor=0D1117)
 
-![Snake Animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+**Cloud & DevOps**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=0D1117)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0D1117)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0D1117)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0D1117)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=0D1117)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 📫 Connect
+## ▸ Activity
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aroncanand/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/Aron-droid/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
 <a href="https://github.com/AronAnand">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AronAnand&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub stats" />
+</a>
+<a href="https://git.io/streak-stats">
+<img height="165" src="https://streak-stats.demolab.com?user=AronAnand&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub streak" />
 </a>
 
-<br><br>
+</div>
 
-**Open to:** LLM Research · AI Products · Hackathon Teams · Interesting Collaborations
+---
 
-<br>
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=AronAnand&color=00D9FF&style=for-the-badge&label=Profile+Views" />
+### Let's build something that survives contact with real users.
+
+**Open to:** LLM research · AI product engineering · agentic system design · hackathon teams
+
+[![LinkedIn](https://img.shields.io/badge/Say_hello_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/aroncanand/)
+[![Email](https://img.shields.io/badge/aronc.anand3@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:aronc.anand3@gmail.com)
+
+<sub><i>"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim." — E. W. Dijkstra</i></sub>
 
 </div>
